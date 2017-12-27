@@ -5,4 +5,4 @@ date: 2017-12-26
 ---
 
 Second post? 
-<img src="/path/to/img.jpg" alt="Alt text" title="Title"/>
+<img src="~\Users\Zhi\Pictures\Wallpapers\Chateau.jpg" alt="Alt Text" title="Chateau"/>
