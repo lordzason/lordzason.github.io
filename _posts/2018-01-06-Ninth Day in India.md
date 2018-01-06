@@ -33,6 +33,11 @@ After the whirlwind presentation of self governance, P. B. Sajan presented on a 
 Of praise, particularly from planners, are the participatory planning approach where all the women who lived in Karimadom attended the redevelopment meetings, with different ones held on three consecutive days, the accommodation of the residents on-site as their residences are constructed, considerations of the need of the residents as actualized in terraced housing and low heights, and partnership with Kudumbashree on health, livlihood, education, and waste management.
 It was unfortunate that I did not have more time to talk with the community organizer and to tour the site some more before I went for the scheduled ayurvedic massage. I will try to return to walk around the area and speak with some of the residents, if possible.
 
-![an image alt text]({{ site.baseurl }}/assets/photos/20180105_164459.jpg "Ayurvedic Resort")
+![an image alt text]({{ site.baseurl }}/assets/photos/20180106_141350.jpg "Karimadom Redevelopment")
+
+For lunch, I had my first Kerala thayli meal. Eating the sequence of curries in the prescribed order followed culinary sense, spicy to calming to umami to sweet to filling. 
+The hustle and bustle of the restaurant and of the servers made eating more fast-paced, energetic, and exciting.
+However, I would like to take my time to enjoy and understand the whole meal some more.
+![an image alt text]({{ site.baseurl }}/assets/photos/20180106_130303.jpg "Kerala Thayli")
 
 
