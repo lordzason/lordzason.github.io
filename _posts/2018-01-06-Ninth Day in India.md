@@ -17,8 +17,8 @@ A convenient "EFs" guide helps promote people planning success in Kerala, or any
 1. Functions among government levels must be clearly delineated. In Kerala, education and health are at the local government level while economic policy, diplomacy, and national defense is at the federal level. *(The US states should take over healthcare?)*
 2. Functionaries, those working within the government, 
 3. Funds need be
-	a. Unrestricted in their usage
-	b. Allocated according to a formula, weighing the needs of those like the scheduled castes first
+a. Unrestricted in their usage
+b. Allocated according to a formula, weighing the needs of those like the scheduled castes first
 4. Frameworks for law, processes, and rules need to be established and enforced
 5. Freedoms of local governments to be autonomous must exist
 6. Fraternity with nonpartisan local government
